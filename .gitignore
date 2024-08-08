@@ -186,6 +186,7 @@ new_git.bat
 keys.json
 common_questions.json
 linkedin_creds.json
+jobs_to_search.json
 
 # idea folder, uncomment if you don't need it
 # .idea
